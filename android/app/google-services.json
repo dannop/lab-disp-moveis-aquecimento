@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "240384844750",
+    "firebase_url": "https://whatsuff-530cf.firebaseio.com",
+    "project_id": "whatsuff-530cf",
+    "storage_bucket": "whatsuff-530cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:240384844750:android:27be133af710b78df7019f",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "240384844750-k5tqmgdsn3bn9dfcdot8cvj6lk4i2uc7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app",
+            "certificate_hash": "46325fdb0100d789b14a761389228e9c68651646"
+          }
+        },
+        {
+          "client_id": "240384844750-7i5hlefna46h06uk870v9f67oicvo96m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBl34UDRGGaO1Kxz5wbBOQYl_cPHVrCHrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "240384844750-7i5hlefna46h06uk870v9f67oicvo96m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
